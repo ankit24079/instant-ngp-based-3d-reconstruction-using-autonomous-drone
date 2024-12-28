@@ -1,1 +1,1 @@
-# instant-ngp-based-3d-reconstruction-using-autonomus-dron
+# instant-ngp-based-3d-reconstruction-using-autonomus-drone
